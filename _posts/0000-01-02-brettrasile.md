@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Pogger champion
+Im gaming
 Use the left arrow to go back!
